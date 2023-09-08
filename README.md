@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **j3rry@kraz.bio**
 
-- ⚡ Fun fact **India 60s = Hong Kong 1 minute**
+- ⚡ Fun fact **Every 60 seconds in Africa, a minute passes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
