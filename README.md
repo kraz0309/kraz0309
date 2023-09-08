@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **j3rry@kraz.bio**
 
+- 🌐 Don't forgot to check out my Website **https://kraz.bio**
+
 - ⚡ Fun fact **Every 60 seconds in Africa, a minute passes**
 
 <h3 align="left">Connect with me:</h3>
