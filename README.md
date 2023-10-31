@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm J3rry</h1>
-<h3 align="center">I'm a Streamer, Programmer and Student From Hong Kong</h3>
+<h3 align="center">FPS Player / Programmer /Producer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j3rry0309&label=Profile%20views&color=0e75b6&style=flat" alt="j3rry0309" /> </p>
 
