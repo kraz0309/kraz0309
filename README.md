@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kraz</h1>
-<h3 align="center">An FPS Player / Programmer / Producer from Hong Kong 🇭🇰</h3>
+<h1 align="center">Hi 👋, This is Kraz</h1>
+<h3 align="center">Welcome to my GitHub Webpage</h3>
+<h3 align="center">I'm an FPS Player / Programmer / Producer from Hong Kong. Here is some information about me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraz0309&label=Profile%20views&color=0e75b6&style=flat" alt="kraz0309" /> </p>
 
 <p align="left"> <a href="https://instagram.com/j3rryyy_" target="blank"><img src="https://img.shields.io/twitter/follow/j3rryyy_?logo=twitter&style=for-the-badge" alt="j3rryyy_" /></a> </p>
 
-- 🔭 I’m currently working on **Aegis**
+- 🔭 I’m currently working on **Nemesis and Formosa**
 
-- 🌱 I’m currently learning **Music Producing / Coding**
+- 🌱 I’m currently learning **Music Producing, Coding, Video Editing, and Graphic Design!**
 
 - 💬 Ask me about **Whatever you want!**
 
