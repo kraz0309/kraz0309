@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Kraz</h1>
-<h3 align="center">Welcome to my GitHub Webpage</h3>
+<h3 align="center">Welcome to my GitHub profile!</h3>
 <h3 align="center">I'm an FPS Player / Programmer / Producer from Hong Kong. Here is some information about me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraz0309&label=Profile%20views&color=0e75b6&style=flat" alt="kraz0309" /> </p>
