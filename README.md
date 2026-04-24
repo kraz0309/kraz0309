@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Nemesis and Formosa**
 
-- 🌱 I’m currently learning **Music Producing, Coding, Video Editing, and Graphic Design!**
+- 🌱 I do **Music Producing, Coding, Video Editing, and Graphic Design!**
 
 - 💬 Ask me about **Whatever you want!**
 
-- 📫 How to reach me **guns.lol/kraz**
+- 📫 Reach me at **guns.lol/kraz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
