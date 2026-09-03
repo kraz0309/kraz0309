@@ -5,7 +5,7 @@
 
 **Music Producer | Programmer | Video Editor**  
 
-• [🌐 Portfolio](https://kraz.bio) • 
+• [🌐 My Personal Website](https://kraz.bio) • 
 
 </div>
 
