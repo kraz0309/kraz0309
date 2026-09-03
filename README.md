@@ -3,7 +3,7 @@
 **Music Producer | Programmer | Video Editor**  
 Based in Hong Kong 🇭🇰
 
-[🌐 Portfolio](https://kraz.bio) • [✉️ Contact](mailto:kraz@formosa.network) • [💬 Discord](https://discord.com)
+• [🌐 Portfolio](https://kraz.bio) • 
 
 ---
 
@@ -19,7 +19,7 @@ class Kraz {
     String[] interests = {"Programming", "Producing"};
     String email     = "kraz@formosa.network";
 }
-
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yxngkraz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kraz0309) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kraz0309) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@j3rry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kraz@formosa.network) 
