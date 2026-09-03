@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎵 Hey there, I'm Kraz 👋
-##(also known as Jerry)
+(also known as Jerry)
 
 **Music Producer | Programmer | Video Editor**  
 Based in Hong Kong 🇭🇰
