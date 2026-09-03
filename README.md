@@ -1,12 +1,11 @@
 <div align="center">
 
 # 🎵 Hey there, I'm Kraz 👋
-(also known as Jerry)
 
 **Music Producer | Programmer | Video Editor**  
 Based in Hong Kong 🇭🇰
 
-[🌐 Portfolio](https://kraz.bio) • [✉️ Contact](mailto:kraz@formosa.network) • [💬 Discord](https://discord.com)
+[🌐 Portfolio](https://kraz.bio) • [✉️ Contact](mailto:kraz@formosa.network) • [💬 Discord](j3rry)
 
 ---
 
