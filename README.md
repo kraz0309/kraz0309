@@ -1,9 +1,8 @@
 <div align="center">
     
-# 🎵 Hi, I'm Kraz (Jerry) 👋
+# Hey there, I'm Kraz (Jerry) 👋
 
 **Music Producer | Programmer | Video Editor**  
-Based in Hong Kong 🇭🇰
 
 • [🌐 Portfolio](https://kraz.bio) • 
 
