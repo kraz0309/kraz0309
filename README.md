@@ -5,7 +5,7 @@
 **Music Producer | Programmer | Video Editor**  
 Based in Hong Kong 🇭🇰
 
-[🌐 Portfolio](https://kraz.bio) • [✉️ Contact](mailto:kraz@formosa.network) • [💬 Discord](j3rry)
+[🌐 Portfolio](https://kraz.bio) • [✉️ Contact](mailto:kraz@formosa.network) • [💬 Discord] > j3rry
 
 ---
 
