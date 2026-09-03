@@ -7,8 +7,6 @@ Based in Hong Kong 🇭🇰
 
 • [🌐 Portfolio](https://kraz.bio) • 
 
----
-
 </div>
 
 ## 👨‍💻 About Me
