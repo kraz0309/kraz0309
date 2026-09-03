@@ -1,5 +1,24 @@
-# 💫 About Me:
-javascript<br>class Kraz {<br>    String pronouns  = "he/him/his";<br>    String location  = "Asia/Hong_Kong";<br>    String[] languages = {"English", "Cantonese", "Mandarin"};<br>    String[] interests = {"Programming", "Producing"};<br>    String email     = "kraz@formosa.network";<br>}
+# 🎵 Hi, I'm Kraz (Jerry) 👋
+
+**Music Producer | Programmer | Video Editor**  
+Based in Hong Kong 🇭🇰
+
+[🌐 Portfolio](https://kraz.bio) • [✉️ Contact](mailto:kraz@formosa.network) • [💬 Discord](https://discord.com)
+
+---
+
+</div>
+
+## 👨‍💻 About Me
+
+```javascript
+class Kraz {
+    String pronouns  = "he/him/his";
+    String location  = "Asia/Hong_Kong";
+    String[] languages = {"English", "Cantonese", "Mandarin"};
+    String[] interests = {"Programming", "Producing"};
+    String email     = "kraz@formosa.network";
+}
 
 
 ## 🌐 Socials:
@@ -12,13 +31,3 @@ javascript<br>class Kraz {<br>    String pronouns  = "he/him/his";<br>    String
 ![](https://streak-stats.demolab.com/?user=kraz0309&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kraz0309&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kraz0309&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kraz0309&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=kraz0309&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
