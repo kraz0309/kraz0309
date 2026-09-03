@@ -1,5 +1,5 @@
 # 💫 About Me:
-```javascript<br>class Kraz {<br>    String pronouns  = "he/him/his";<br>    String location  = "Asia/Hong_Kong";<br>    String[] languages = {"English", "Cantonese", "Mandarin"};<br>    String[] interests = {"Programming", "Producing"};<br>    String email     = "kraz@formosa.network";<br>}
+javascript<br>class Kraz {<br>    String pronouns  = "he/him/his";<br>    String location  = "Asia/Hong_Kong";<br>    String[] languages = {"English", "Cantonese", "Mandarin"};<br>    String[] interests = {"Programming", "Producing"};<br>    String email     = "kraz@formosa.network";<br>}
 
 
 ## 🌐 Socials:
