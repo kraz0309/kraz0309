@@ -1,6 +1,7 @@
 <div align="center">
     
 # Hey there, I'm Kraz (Jerry) 👋
+<sub>(also known as Jerry)</sub>
 
 **Music Producer | Programmer | Video Editor**  
 
